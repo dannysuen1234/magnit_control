@@ -1,0 +1,1 @@
+bluetooth_mesh/Meshmsg msg

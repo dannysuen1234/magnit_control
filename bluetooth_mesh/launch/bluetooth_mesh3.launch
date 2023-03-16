@@ -1,0 +1,4 @@
+<launch>
+	<param name="bluetooth_mesh/token" type="str" value="002ae7e878a17065" />
+	<node pkg="bluetooth_mesh" name="bluetooth_mesh" type="bluetooth_mesh_node3.py" output="screen"></node>
+</launch>
